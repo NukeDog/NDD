@@ -1,4 +1,29 @@
-cnxLFS
-======
+Nukdog's Drupal Distribution
+============================
 
-An atempt to get some consistant means of build a linux from scratch. These scripts should build a complete working system along with any extras
+Nukedog's Drupal Distribution (NDD) is designed to easily realize an _Enterprise Quality_
+Community, Content Management System (CMS), eCommerce (Shop) or Enterprise Website.
+
+Features
+------------
+
+- Solid Base and Boilerplate
+- Multilanguage (ML), with translation methods
+- 
+
+Installation
+------------
+
+The [Installtion](Installion) instructions are in the wiki..
+
+Licenses
+-------
+
+* GPLv3
+
+
+Credits
+-------
+
+- [https://drupal.org](Drupal).
+- [http://nodestream.org/node/27](NodeStream) provides the boilerplate.
