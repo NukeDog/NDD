@@ -29,5 +29,5 @@ Licenses
 Credits
 -------
 
-- [https://drupal.org](Drupal).
+- [https://drupal.org Drupal].
 - [NodeStream][http://nodestream.org/node/27] provides the boilerplate.
