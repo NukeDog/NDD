@@ -1,8 +1,7 @@
 Nukedog's Drupal Distribution
 =============================
 
-Nukedog's Drupal Distribution (NDD) is designed to easily realize an _Enterprise Quality_
-Community, Content Management System (CMS), eCommerce (Shop) or Enterprise Website.
+Nukedog's Drupal Distribution (NDD) is designed to be an _Enterprise Quality_  product used as a platform for online solutions.
 
 
 Features
