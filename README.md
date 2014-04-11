@@ -16,7 +16,7 @@ Features
 Installation
 ------------
 
-The [Installtion](Installion) instructions are in the wiki..
+The [Install](wiki/installation) instructions are in the wiki..
 
 
 Licenses
