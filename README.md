@@ -22,7 +22,7 @@ The [Installtion](Installion) instructions are in the wiki..
 Licenses
 -------
 
-* GPLv3
+* [GPLv3](http://www.gnu.org/licenses/gpl.txt)
 
 
 Credits
