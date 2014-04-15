@@ -16,13 +16,13 @@ Features
 Installation
 ------------
 
-The [Install](wiki/installation) instructions are in the wiki..
+The [Install](../../wiki/installation) instructions are in the wiki..
 
 
 Licenses
 -------
 
-* [GPLv3](LICENSE)
+* [GPLv3](../../LICENSE)
 
 
 Credits
