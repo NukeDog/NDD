@@ -29,3 +29,4 @@ Credits
 -------
 
 - [Drupal](https://drupal.org) provides the base.
+- A detailed [Credits page](wiki/credits) for all used parts will be added soon.
