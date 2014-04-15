@@ -29,4 +29,3 @@ Credits
 -------
 
 - [Drupal](https://drupal.org) provides the base.
-- [NodeStream](http://nodestream.org/node/27) provides the boilerplate.
